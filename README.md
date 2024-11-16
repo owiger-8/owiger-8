@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @owiger-8
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+
 
 <!---
 owiger-8/owiger-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
